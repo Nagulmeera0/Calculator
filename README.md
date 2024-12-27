@@ -4,7 +4,7 @@ A simple web-based calculator application.
 
 Demo:
 
-Check out the live demo: calculator-nm0.netlify.app
+Check out the live demo: [calculator-nm0.netlify.app](https://calculator-nm0.netlify.app/)
 
 Features:
 
